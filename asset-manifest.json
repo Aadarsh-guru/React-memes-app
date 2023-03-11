@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-memes-app/static/css/main.e6c13ad2.css",
+    "main.js": "/react-memes-app/static/js/main.d7506695.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/react-memes-app/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/react-memes-app/index.html",
+    "main.e6c13ad2.css.map": "/react-memes-app/static/css/main.e6c13ad2.css.map",
+    "main.d7506695.js.map": "/react-memes-app/static/js/main.d7506695.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/react-memes-app/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d7506695.js"
+  ]
+}
